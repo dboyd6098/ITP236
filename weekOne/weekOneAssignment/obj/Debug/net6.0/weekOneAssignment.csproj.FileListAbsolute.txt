@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\bin\Debug\net6.0\weekOneAssignment.exe
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\bin\Debug\net6.0\weekOneAssignment.deps.json
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\bin\Debug\net6.0\weekOneAssignment.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\bin\Debug\net6.0\weekOneAssignment.dll
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\bin\Debug\net6.0\weekOneAssignment.pdb
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.dll
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\refint\weekOneAssignment.dll
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.pdb
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\weekOneAssignment.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\ITP236\repos\weekOne\weekOneAssignment\obj\Debug\net6.0\ref\weekOneAssignment.dll
